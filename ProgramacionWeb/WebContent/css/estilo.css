@@ -1,0 +1,70 @@
+h1 {
+	text-align: center;
+	font-family: cursive;
+	position: relative;
+	top: 70px;
+}
+
+h3{
+	position: relative;
+	left: 510px;
+	top: 20px;
+	font-family: cursive;
+}
+
+h2{
+	text-align: center;
+	font-family: cursive;
+}
+
+header {
+	background-color: #b70000;
+}
+
+table {
+	margin: auto;
+	border-collapse: separate;
+	font-family: cursive;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+table th{
+	text-align: center;
+}
+
+label, h4{
+	font-family: cursive;
+}
+
+#btnNuevo {
+	position: relative;
+	left: 950px;
+	bottom: 20px;
+/* 	background-color: red; */
+/* 	color: white; */
+}
+
+#input{
+	width: 500px;
+	height: 50px;
+}
+
+#btn{
+	width: 100px;
+	height: 50px;
+	display: inline;
+}
+
+select{
+	width: 50px;
+}
+
+#imagen{
+	width: 200px;
+	height: 200px;
+	position: relative;
+	bottom: 40px;
+}
